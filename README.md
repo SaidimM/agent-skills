@@ -1,16 +1,25 @@
-# Agent Skills 🛠️
+# Agent Skills 馃洜锔
 
-A community repository for custom AI Agent (Hermes) skills and workflows.
+A community repository for custom AI Agent skills and workflows.
 
-## 📦 Available Skills
+## 馃摝 Available Skills
 
-### 🎨 `notion-stylist`
-Mastery of Notion's visual and structural capabilities to create aesthetic, functional, and branded workspaces via the UI and API.
+### 馃搼 Design
+#### luent2-wireframe
+Design desktop application wireframes using Microsoft's Fluent 2 design language. Includes 12-column grid, 4px spacing, and Segoe UI Variable specifications.
+- **Location:** \skills/design/fluent2-wireframe/SKILL.md\
 
-- **Focus:** Summary-first layouts, color-coded callouts, and modular grids.
-- **Rules Enforced:** Prohibits `to_do` blocks in favor of rich-text bullets. Highly leverages inline annotations (bold, colors, code).
-- **Location:** `skills/productivity/notion-stylist/SKILL.md`
+### 馃摉 Product Management
+#### prd-workflow-designer
+Discover requirements from vague requests, ask targeted questions, and draft comprehensive PRD packages including architecture diagrams and user flows.
+- **Location:** \skills/product/prd-workflow-designer/SKILL.md\
 
-## 🚀 How to Use
+### 馃搮 Productivity
+#### 
+otion-stylist
+Mastery of Notion's visual and structural capabilities to create aesthetic, functional, and branded workspaces.
+- **Location:** \skills/productivity/notion-stylist/SKILL.md\
 
-If you are using Hermes, simply add this repository to your external skills directories, or manually copy the `.md` files into your `~/.hermes/skills/` folder.
+## 馃殌 How to Use
+
+Simply add this repository to your external skills directories, or manually copy the skill folders into your local skills folder.
