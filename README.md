@@ -5,20 +5,23 @@ A community repository for custom AI Agent skills and workflows.
 ## Available Skills
 
 ### Design
-#### luent2-wireframe
+#### `fluent2-wireframe`
 Design desktop application wireframes using Microsoft's Fluent 2 design language. Includes 12-column grid, 4px spacing, and Segoe UI Variable specifications.
-- **Location:** \skills/design/fluent2-wireframe/SKILL.md\
+- **Location:** `skills/design/fluent2-wireframe/SKILL.md`
+
+#### `saas-wireframe-expert`
+High-fidelity SaaS wireframing guide focusing on conversion funnels, exact screen dimensions (1440x1024 / 393x852), and real-content strategies.
+- **Location:** `skills/design/saas-wireframe-expert/SKILL.md`
 
 ### Product Management
-#### prd-workflow-designer
+#### `prd-workflow-designer`
 Discover requirements from vague requests, ask targeted questions, and draft comprehensive PRD packages including architecture diagrams and user flows.
-- **Location:** \skills/product/prd-workflow-designer/SKILL.md\
+- **Location:** `skills/product/prd-workflow-designer/SKILL.md`
 
 ### Productivity
-#### 
-otion-stylist
+#### `notion-stylist`
 Mastery of Notion's visual and structural capabilities to create aesthetic, functional, and branded workspaces.
-- **Location:** \skills/productivity/notion-stylist/SKILL.md\
+- **Location:** `skills/productivity/notion-stylist/SKILL.md`
 
 ## How to Use
 
