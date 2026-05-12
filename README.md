@@ -23,6 +23,11 @@ Discover requirements from vague requests, ask targeted questions, and draft com
 Mastery of Notion's visual and structural capabilities to create aesthetic, functional, and branded workspaces.
 - **Location:** `skills/productivity/notion-stylist/SKILL.md`
 
+### Social
+#### `hermes-tweet`
+Native Hermes Agent X/Twitter plugin workflow for tweet search, reply reading, user lookup, follower export, monitoring, and approval-gated posting or DMs through Hermes Tweet.
+- **Location:** `skills/social/hermes-tweet/SKILL.md`
+
 ## How to Use
 
 Simply add this repository to your external skills directories, or manually copy the skill folders into your local skills folder.
